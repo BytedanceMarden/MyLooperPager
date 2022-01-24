@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyLooperPager">
+        <!-- 是否展示标题栏 -->
+        <attr name="isShowTitle" format="boolean" />
+        <!-- 轮播时间间隔 -->
+        <attr name="switchTime" format="integer" />
+    </declare-styleable>
+</resources>
